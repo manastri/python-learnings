@@ -1,1 +1,3 @@
-https://github.com/manastri/python-learnings.git
+def locate_cards(cards, query)
+pass
+fail
