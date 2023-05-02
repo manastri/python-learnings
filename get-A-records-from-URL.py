@@ -7,7 +7,7 @@ with open('input.txt', 'r') as input_file, open('output.txt', 'w') as output_fil
     # Read each line (FQDN) from the input file
     for line in input_file:
 
-        # Strip whitespace and newline characters from the line
+        # Strip whitespace and newline characters from the line=False
         fqdn = line.strip()
 
         try:
